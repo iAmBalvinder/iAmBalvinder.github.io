@@ -11,7 +11,7 @@ repository          : iAmBalvinder/iambalvinder.github.io    # repository metada
 ### Author Info ###
 author:
   name              : Balvinder
-  image             : 01.jpg
+  image             : https://raw.githubusercontent.com/iAmBalvinder/iambalvinder.github.io/master/images/01.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : info@balvindersingh.com
