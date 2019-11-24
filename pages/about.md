@@ -2,18 +2,18 @@
 layout: page
 title: About
 permalink: /about/
-weight: 1
+weight: 3
 ---
 
 # **About Me**
 
-<br>
-I grew up in San Francisco, CA and have also lived in Washington, DC and Beijing, China. I like to collect experiences that don't always relate to one another. I've worked in data science, policy-making, federal government and academia. One common denominator between these experiences has been using hard numbers to solve puzzles, both large and small. 
+Hi I am **{{ site.author.name }}**,<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-In my free time, I enjoy riding (and occasionally [building](https://joeygoodman.us/projects/5-bamboo-bike)) bicycles. 
-
-<br>
-You can reach me at `hello` [at] `joeygoodman.us`. 
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
 
 <div class="row">
 {% include about/timeline.html %}
