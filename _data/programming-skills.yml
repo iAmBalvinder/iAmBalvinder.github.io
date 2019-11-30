@@ -1,11 +1,16 @@
-- name: HTML5/CSS3
+
+- name: MDX/SSAS
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: SQL
+  percentage: 75
+  color: 
 
 - name: Python
-  percentage: 70
-  color: dark
+  percentage: 60
+  color: violet
+
+- name: AI/ML
+  percentage: 20
+  color: warning
