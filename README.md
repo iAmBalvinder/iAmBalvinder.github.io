@@ -1,1 +1,1 @@
-Personal Portolio website (https://iambalvinder.github.io)
+Personal Portolio website (https://balvindersingh.com)
