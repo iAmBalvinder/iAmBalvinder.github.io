@@ -8,11 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-To be edited soon.
+To be edited soon. pretty soon test
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming <br> Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Data <br> Skills" source=site.data.data-skills %}
+{% include about/skills.html title="Visualization <br> Skills" source=site.data.visualization-skills %}
 </div>
 
 <br>

@@ -3,14 +3,10 @@
   percentage: 90
   color: danger
 
+- name: Python
+  percentage: 80
+  color: violet
+
 - name: SQL
   percentage: 75
   color: 
-
-- name: Python
-  percentage: 60
-  color: violet
-
-- name: AI/ML
-  percentage: 20
-  color: warning
