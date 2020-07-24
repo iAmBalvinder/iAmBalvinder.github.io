@@ -4,3 +4,4 @@ gem 'kramdown' #bedit
 gem "bundler" #bedit
 gem "jekyll" #bedit
 end
+gem "jemoji", "~> 0.11.1"
