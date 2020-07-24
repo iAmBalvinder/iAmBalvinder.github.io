@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave: ,<br>
+Hi I am **{{ site.author.name }}** :wave:,
 and this is my website to post things related to data and tech (and may be some Real Estate).
 
 I hold a B.E. in Industrial Engineering and MBA in Operations Management from Thapar University (2007-2012).
